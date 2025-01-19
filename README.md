@@ -13,11 +13,24 @@ html, body {
 	display: table;
 	background-color: #336699;
 }
-header {
-        background-color: white;
+.contentContainer {
+	display: table-cell;
 	text-align: center;
-	width: 100;
-	height: 30;
+	vertical-align: middle;
+	background-color: #CCCC00;
+}
+.content {
+	width: 300px;
+	height: 300px;
+	background-color: #0000FF;
+	margin-left: auto;
+	margin-right: auto;
+}
+.header, .footer {
+	background-color: #993300;
+	width: 100%;
+	height: 50px;
+	display: table-row;
 }
 .menu {
 	height: 75%;
@@ -50,9 +63,7 @@ table {
     left: 50%;
     transform: translate(-50%, -50%);
 }
-table-container {
-    position: relative;
-}
+
 </style>
 </head>
 <body>
@@ -63,16 +74,18 @@ table-container {
 <header>
 <h1> Data Mahasiswa Teknik Informatika</h1>
  </header>
-   <div class="navigasi">
+   <div class="header">
 		<div class="menu">
 			<ul>
 				<li><a href="menu.html">Menu</a></li>
 				<li><a href="Beranda.html">Beranda</a></li>
 				<li><a href="kontak.html">Kontak</a></li>
 			</ul>
-		</div>
-<div class="table-container">
- <table  align="center">
+              </div>
+   <div>
+<div class="contentContainer">
+<div class="content">	   
+<table  align="center">
 	    <tr>
 	    <td>NO</td>
 	    <td>NAMA MAHASISWA</td>
