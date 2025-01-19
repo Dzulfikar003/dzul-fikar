@@ -5,13 +5,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Praktikum WEB 1</title>
 	<style type="text/css">
-		body{
-		background-color: aqua;
-	background-image: url(poto/10.jpg);
-	background-repeat: no-repeat;
-	background-position: right;
-	height: 670px;
-	background-size: 320px;
+html, body {
+       margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	display: table;
+	background-color: #336699;
 }
 header {
         background-color: white;
