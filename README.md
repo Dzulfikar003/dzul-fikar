@@ -72,7 +72,7 @@ table-container {
 			</ul>
 		</div>
 <div class="table-container">
-<table>
+ <table>
 	    <tr>
 	    <td>NO</td>
 	    <td>NAMA MAHASISWA</td>
@@ -103,8 +103,8 @@ table-container {
             	<td>2023511023</td>
             	<td>MANDING</td>
             </tr>
-</table>
- </div>	
+ </table>
+</div>	
 <h3><p align="center">Mahasiswa Teknik informatika Universitas</p></h3>
 <h3><p align="center">Al-Asyariah Mandar sebanyak</p></h3> 
 	
