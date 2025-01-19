@@ -50,6 +50,10 @@ table {
     margin-left: auto;
     margin-right: auto;
 }
+table-container {
+    display: flex;
+    justify-content: center;
+}
 </style>
  </head>
 <body>
@@ -68,7 +72,7 @@ table {
 				<li><a href="kontak.html">Kontak</a></li>
 			</ul>
 		</div>
-
+<div class="table-container">
 <table>
 	    <tr>
 	    <td>NO</td>
@@ -101,6 +105,7 @@ table {
             	<td>MANDING</td>
             </tr>
 </table>
+ </div>	
 </body>
 <h3><p align="center">Mahasiswa Teknik informatika Universitas</p></h3>
 <h3><p align="center">Al-Asyariah Mandar sebanyak</p></h3> 
