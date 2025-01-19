@@ -72,7 +72,7 @@ table-container {
 			</ul>
 		</div>
 <div class="table-container">
- <table>
+ <table  align="center">
 	    <tr>
 	    <td>NO</td>
 	    <td>NAMA MAHASISWA</td>
