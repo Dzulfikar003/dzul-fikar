@@ -19,7 +19,6 @@ header {
 	width: 100;
 	height: 30;
 }
-	
 .menu {
 	height: 75%;
 	width: 150px;
@@ -55,12 +54,12 @@ table-container {
     justify-content: center;
 }
 </style>
- </head>
+</head>
 <body>
-	<td>
-		<img src="foto/P.PNG" width="100" height="100">
-		</td>
-</body>
+<td>
+<img src="foto/P.PNG" width="100" height="100">
+</td>
+
 <header>
 <h1> Data Mahasiswa Teknik Informatika</h1>
  </header>
@@ -106,7 +105,6 @@ table-container {
             </tr>
 </table>
  </div>	
-</body>
 <h3><p align="center">Mahasiswa Teknik informatika Universitas</p></h3>
 <h3><p align="center">Al-Asyariah Mandar sebanyak</p></h3> 
 	
