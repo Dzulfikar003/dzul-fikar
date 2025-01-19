@@ -19,6 +19,10 @@ header {
 	width: 100;
 	height: 30;
 }
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}		
 .menu {
 	height: 75%;
 	width: 150px;
@@ -66,7 +70,7 @@ table {
 			</ul>
 		</div>
 
-<table border="1" cellspacing="0" cellpadding="7" align="center">
+<table class="center" align="center">
 	    <tr>
 	    <td>NO</td>
 	    <td>NAMA MAHASISWA</td>
@@ -99,11 +103,11 @@ table {
             </tr>
 </table>
 </body>
-        <h3><p align="center">Mahasiswa Teknik informatika Universitas</p></h3>
-        <h3><p align="center">Al-Asyariah Mandar sebanyak</p></h3> 
+<h3><p align="center">Mahasiswa Teknik informatika Universitas</p></h3>
+<h3><p align="center">Al-Asyariah Mandar sebanyak</p></h3> 
 	
 <div class="footer">
-<p>Copy Right @dzulfikar003,Halaman Web Saya</p>
+<p align="center">Copy Right @dzulfikar003,Halaman Web Saya</p>
 </div>
 </body>
 </html>
