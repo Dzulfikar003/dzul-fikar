@@ -14,8 +14,7 @@
 	background-size: 320px;
 }
 header {
-
-	background-color: white;
+        background-color: white;
 	text-align: center;
 	width: 100;
 	height: 30;
@@ -45,23 +44,20 @@ header {
 	padding: 3px;
 	margin: 50px auto 0px;
 }
-
 table {
-	border-color: white;
+       border-color: white;
 }
-
-	</style>
-</head>
+</style>
+ </head>
 <body>
 	<td>
 		<img src="foto/P.PNG" width="100" height="100">
 		</td>
 </body>
-		<header>
-		<h1> Data Mahasiswa Teknik Informatika</h1>
-	</header>
-
-	<div class="navigasi">
+<header>
+<h1> Data Mahasiswa Teknik Informatika</h1>
+ </header>
+   <div class="navigasi">
 		<div class="menu">
 			<ul>
 				<li><a href="menu.html">Menu</a></li>
@@ -71,51 +67,43 @@ table {
 		</div>
 
 <table border="1" cellspacing="0" cellpadding="7" align="center">
-			<tr>
-				<td>NO</td>
-				<td>NAMA MAHASISWA</td>
-				<td>NPM</td>
-				<td>ALAMAT</td>
+	    <tr>
+	    <td>NO</td>
+	    <td>NAMA MAHASISWA</td>
+	    <td>NPM</td>
+	    <td>ALAMAT</td>
             <tr>
-
-            <tr>
+	    <tr>
             	<td>1</td>
             	<td>RAHMAT FAJAR</td>
             	<td>2023511030</td>
             	<td>LUYO</td>
             </tr>
-
             <tr>
             	<td>2</td>
             	<td>DZULFIKAR</td>
             	<td>2023511003</td>
             	<td>LANTORA</td>
             </tr>
-
             <tr>
             	<td>3</td>
             	<td>GIAN PRABOWO</td>
             	<td>2023511008</td>
             	<td>MANDING</td>
             </tr>
-
-                        <tr>
+            <tr>
             	<td>4</td>
             	<td>RISKAL HIDAYAT</td>
             	<td>2023511023</td>
             	<td>MANDING</td>
             </tr>
-
-		</table>
-
+</table>
 </body>
         <h3><p align="center">Mahasiswa Teknik informatika Universitas</p></h3>
         <h3><p align="center">Al-Asyariah Mandar sebanyak</p></h3> 
-        
-
-
+	
 <div class="footer">
-	<p>Copy Right @dzulfikar003,Halaman Web Saya</p>
+<p>Copy Right @dzulfikar003,Halaman Web Saya</p>
 </div>
 </body>
 </html>
