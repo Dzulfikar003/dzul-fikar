@@ -19,10 +19,7 @@ header {
 	width: 100;
 	height: 30;
 }
-.center {
-  margin-left: auto;
-  margin-right: auto;
-}		
+	
 .menu {
 	height: 75%;
 	width: 150px;
@@ -49,7 +46,9 @@ header {
 	margin: 50px auto 0px;
 }
 table {
-       border-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 </style>
  </head>
@@ -70,7 +69,7 @@ table {
 			</ul>
 		</div>
 
-<table class="center" align="center">
+<table>
 	    <tr>
 	    <td>NO</td>
 	    <td>NAMA MAHASISWA</td>
